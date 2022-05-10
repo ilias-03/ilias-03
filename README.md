@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ilias-03
-- 👀 I’m interested in python, AI
+- 👀 I’m interested in programming w python, AI and mechanical engineering
 - 🌱 I’m currently learning mechanical engineering + programming
 - 📫 How to reach me: iliastompoulidis0@gmail.com
